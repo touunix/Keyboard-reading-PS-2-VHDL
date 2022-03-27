@@ -12,7 +12,7 @@ When another key is pressed, the display goes blank. The system has an additiona
 <img src="https://user-images.githubusercontent.com/79804729/160300843-b4ef5cfa-97b7-43cb-b71e-4e798bd4e159.png" width="100%"></img> 
 
 ###### Verification results
-
+<img src="https://user-images.githubusercontent.com/79804729/160301447-dc00074a-23ee-4032-9804-a55d08595ef4.gif" width="100%"></img> 
 
 ###### Files description
 
@@ -31,6 +31,6 @@ W przypadku gdy zostanie wciśnięty inny klawisz, wyświetlacz zostaje wygaszon
 <img src="https://user-images.githubusercontent.com/79804729/160300843-b4ef5cfa-97b7-43cb-b71e-4e798bd4e159.png" width="100%"></img> 
 
 ###### Wyniki weryfikacji
-
+<img src="https://user-images.githubusercontent.com/79804729/160301447-dc00074a-23ee-4032-9804-a55d08595ef4.gif" width="100%"></img> 
 
 ###### Opis plików
