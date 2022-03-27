@@ -15,7 +15,10 @@ When another key is pressed, the display goes blank. The system has an additiona
 <img src="https://user-images.githubusercontent.com/79804729/160301447-dc00074a-23ee-4032-9804-a55d08595ef4.gif" width="100%"></img> 
 
 ###### Files description
-
+- top_display.vhd - VHDL file with display control of individual segments of the display with frequency divider module
+- top_odczyt.vhd - main VHDL design file with the operation algorithm
+- tb.vhd - testbench file
+- iup8.xdc - file with constraints for the Nexys-A7 board (FPGA xc7a100tcsg324-1)
 
 # PL Odczyt klawiatury PS/2 VHDL
 ###### Opis
