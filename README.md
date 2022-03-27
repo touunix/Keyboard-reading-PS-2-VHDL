@@ -34,3 +34,7 @@ W przypadku gdy zostanie wciśnięty inny klawisz, wyświetlacz zostaje wygaszon
 <img src="https://user-images.githubusercontent.com/79804729/160301447-dc00074a-23ee-4032-9804-a55d08595ef4.gif" width="100%"></img> 
 
 ###### Opis plików
+- top_display.vhd - plik VHDL z sterowaniem wyświetlania na poszczególnych segmentach wyświetlacza wraz z dzielnikiem czestotliwosci
+- top_odczyt.vhd - główny plik projektu VHDL z algorytmem działania
+- tb.vhd - plik testbench
+- iup8.xdc - plik z ograniczeniami projektowymi dla płytki Nexys-A7 (układ FPGA xc7a100tcsg324-1)
